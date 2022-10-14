@@ -29,3 +29,7 @@ Examples:
 ![Low-Res](./images/baboon.png)
 
 ![High-Res](./zssr_local_01_200_gradual_x1.5_net_out.png)
+
+References：
+- https://oneflow.readthedocs.io/en/master/
+- https://github.com/jacobgil/pytorch-zssr/
