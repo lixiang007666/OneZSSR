@@ -1,0 +1,6 @@
+Log file created at: 2022/10/14 16:41:07
+Running on machine: training-task-53f5e5v1-train-master-k49xr
+Running duration (h:mm:ss): 0:00:00
+Log line format: [IWEF]yyyymmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I20221014 16:41:07.878805  4558 env_global_objects_scope.cpp:146] Using rpc backend: local
+I20221014 16:41:07.936815  4558 epoll_comm_network.cpp:63] CommNet:Epoll listening on 0.0.0.0:34829
