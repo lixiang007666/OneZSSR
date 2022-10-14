@@ -1,4 +1,4 @@
-# my-ZSSR
+# OneZSSR
 The [original code](https://github.com/assafshocher/ZSSR) was wrote by tensorflow.
 
 This one is a OneFlow version.
